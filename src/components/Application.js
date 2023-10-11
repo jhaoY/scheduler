@@ -7,6 +7,7 @@ import {
 } from "helpers/selectors";
 
 import useApplicationData from "hooks/useApplicationData";
+import useVisualMode from "hooks/useVisualMode";
 
 import "components/Application.scss";
 
